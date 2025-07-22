@@ -8,7 +8,7 @@
 ---
 
 ## 📦 Zawartość projektu
-
+```python
 weather-statistics/
 ├── app.py # Plik aplikacji (np. interfejs graficzny lub API)
 ├── main.py # Główne wejście – uruchamianie zbierania danych
@@ -22,7 +22,7 @@ weather-statistics/
 ├── humidity_plot.png # Wykres wilgotności
 ├── temperature_plot.png # Wykres temperatury
 └── pycache/ # Pliki tymczasowe Pythona
-
+````
 
 ---
 
