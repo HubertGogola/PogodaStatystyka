@@ -73,10 +73,10 @@ print(df_ready.head())
 pobierz_dane_pogodowe()
 Pobiera aktualne dane z API IMGW i tworzy ramkę danych z kluczowymi parametrami.
 
-💾 zapisz_dzienne_dane()
+zapisz_dzienne_dane()
 Zapisuje dane pogodowe do dziennika weather_log.csv, łącząc nowe dane z istniejącymi.
 
- 🔧 preprocess_weather_data(df)
+preprocess_weather_data(df)
 Kompletny pipeline:
 
 czyszczenie danych,
